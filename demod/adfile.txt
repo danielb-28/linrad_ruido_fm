@@ -1,0 +1,10 @@
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_1.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_2.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_3.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_4.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_5.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_6.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_ncb1.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_ncb2.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_ncb3.raw
+/home/danielb/Documents/sp2t/resultados_testes/20220331/20220331_ncb4.raw

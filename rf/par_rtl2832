@@ -1,0 +1,15 @@
+Sampling speed [2100000]
+Serno1 [808464432]
+Serno2 [825241648]
+Serno3 [538976288]
+Gain mode [0]
+Freq adjust [0]
+Direct sampling [0]
+Bandwidth [0]
+Check [349]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

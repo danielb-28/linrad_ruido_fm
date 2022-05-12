@@ -1,0 +1,17 @@
+
+sound system = native ALSA 
+SETUP FOR RX INPUT IS NOW:
+
+SDR DEVICE         = RTL2832 USB
+
+Sampling rate = 2100000, Gain mode = 0, Xtal adjust = 0 ppb
+IF bandwidth  = 0 kHz
+SETUP FOR RX OUTPUT IS NOW:
+
+NETWORK
+send format        = BASEB16 
+
+DISABLED
+DMA rate   min=30    max=500
+
+Normal end

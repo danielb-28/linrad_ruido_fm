@@ -1,0 +1,37 @@
+ytop [20]
+ybottom [252]
+xleft [378]
+xright [804]
+mode (dumb) [0]
+mode (clever) [0]
+timf2 display [0]
+timf2 display lines [0]
+timf2 display hold [0]
+spek avgnum [3]
+limit (dumb) [522695]
+limit (clever) [2000]
+spek gain [500]
+spek zero [500]
+map65 gain [0]
+map65 strong [1]
+Sellim par1 [2]
+Sellim par2 [0]
+Sellim par3 [0]
+Sellim par4 [0]
+Sellim par5 [0]
+Sellim par6 [0]
+Sellim par7 [0]
+Sellim par8 [0]
+check [7770050]
+factor (dumb) [5.000000000000000]
+factor (clever) [10.000000000000000]
+sellim fft1 S/N [655128.562500000000000]
+sellim fft2 S/N [655128.562500000000000]
+timf2 display gain wk [1.000000000000000]
+timf2 display gain st [1.000000000000000]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

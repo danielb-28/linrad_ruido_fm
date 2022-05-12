@@ -1,0 +1,12 @@
+ytop [352]
+ybottom [499]
+xleft [1295]
+xright [1363]
+Meter graph on [1]
+Oscill on [0]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

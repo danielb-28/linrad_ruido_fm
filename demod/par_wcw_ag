@@ -1,0 +1,20 @@
+ytop [538]
+ybottom [691]
+xleft [954]
+xright [1363]
+mode [2]
+avgnum [11]
+window [1]
+fit points [25]
+delay [17]
+check [5550024]
+min S/N [1.467799305915833]
+search range [0.829629600048065]
+lock_range [12.444444656372070]
+freq range [30.000000000000000]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

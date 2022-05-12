@@ -1,0 +1,16 @@
+ytop [0]
+ybottom [0]
+xleft [0]
+xright [0]
+spproc no [0]
+direction [0]
+level dB [0.000000000000000000000000000000]
+freq [93.721255718750128949068312067538]
+fq inc [0.000000000000000000000000000000]
+band fq [0.000000000000000000000000000000]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

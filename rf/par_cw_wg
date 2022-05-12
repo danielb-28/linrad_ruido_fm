@@ -1,0 +1,24 @@
+ytop [89]
+ybottom [251]
+xleft [0]
+xright [543]
+yborder [182]
+xpoints per pixel [0]
+pixels per xpoint [2]
+first xpoint [21349]
+xpoints [248]
+avg1num [5]
+spek avgnum [50]
+waterfall avgnum [500]
+spur_inhibit [0]
+check [6660024]
+yzero [186.949066162109375]
+yrange [297076.187500000000000]
+wat. db zero [5.000000000000000]
+wat. db gain [0.200000002980232]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

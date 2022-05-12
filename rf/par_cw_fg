@@ -1,0 +1,17 @@
+ytop [0]
+ybottom [30]
+xleft [0]
+xright [104]
+yborder [15]
+direction [1]
+gain [0]
+gain_inc [0]
+fq inc [0.000000000000000000000000000000]
+Center freq [98.099999999999766941982670687139]
+Tune freq [689190.687500000000000000000000000000]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

@@ -1,0 +1,21 @@
+ytop [483]
+ybottom [669]
+xleft [499]
+xright [543]
+Scale type [3]
+Avgnum [512]
+Tracks [2]
+Check [1290024]
+ygain [37.348999023437500]
+yzero [-175.153396606445312]
+Cal dBm [0.000000000000000]
+Cal S/N [0.000000000000000]
+Cal S/N sigshift [0.000000000000000]
+Cal dbhz [23.158300399780273]
+Cal S-units [0.000000000000000]
+
+Change only between brackets.
+If file has errors, Linrad will ignore file and use defaults
+or prompt for a complete set of new parameters
+
+Linrad-05.01

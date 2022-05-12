@@ -1,0 +1,95 @@
+
+sound system = native ALSA 
+SETUP FOR RX INPUT IS NOW:
+
+SDR DEVICE         = RTL2832 USB
+
+Sampling rate = 2100000, Gain mode = 0, Xtal adjust = 0 ppb
+IF bandwidth  = 0 kHz
+SETUP FOR RX OUTPUT IS NOW:
+
+DISABLED
+DMA rate   min=30    max=500
+
+USER STARTED THE SELECTION OF A NEW INPUT DEVICE 
+
+goto begin_rx_set_io
+
+
+sound system = native ALSA 
+SETUP FOR RX INPUT IS NOW:
+
+NETWORK
+receive format     = RAW16
+
+SETUP FOR RX OUTPUT IS NOW:
+
+NOT YET SELECTED:   (Select Menu Option 'B')
+DMA rate   min=30    max=500
+
+USER STARTED THE SELECTION OF A NEW OUTPUT DEVICE 
+SELECT SOUNDCARD DEVICE FOR RX OUTPUT FROM LIST:
+device soundcard-device-name                                device      sample-rate  channels  bytes
+seq-no              (soundcard-name)                       pcm-name      min / max   min/max  min/max
+------ --------------------------------------------------  ----------   -----------  -------  ------- 
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,0 
+(alsa_get_dev_pcm_name: n=0, retcode =0) 
+
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,0 
+(alsa_get_dev_pcm_name: n=0, retcode =0) 
+
+     0    HDA Intel PCH, ALC269VC Analog ( HDA Intel PCH at 0xf0700000 irq 28)  plughw:0,0   44100/192000   2/2   2/4 
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,3 
+(alsa_get_dev_pcm_name: n=1, retcode =0) 
+
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,3 
+(alsa_get_dev_pcm_name: n=1, retcode =0) 
+
+     1    HDA Intel PCH, HDMI 0 ( HDA Intel PCH at 0xf0700000 irq 28)  plughw:0,3   32000/192000   2/8   2/4 
+Testing hw:CARD=0
+alsa_get_dev_pcm_name:end of available card/devices reached
+(alsa_get_dev_pcm_name: n=2, retcode =-1) 
+
+Enter desired device-seq-nmbr >
+User selected  0
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,0 
+(alsa_get_dev_pcm_name: n=0, retcode =0) 
+
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,0 
+(alsa_get_dev_pcm_name: n=0, retcode =0) 
+
+
+goto begin_rx_set_io
+
+
+sound system = native ALSA 
+SETUP FOR RX INPUT IS NOW:
+
+NETWORK
+receive format     = RAW16
+
+SETUP FOR RX OUTPUT IS NOW:
+Testing hw:CARD=0
+device found: alsa_dev_plughw_pcm_name=plughw:0,0 
+(alsa_get_dev_pcm_name: n=0, retcode =0) 
+
+
+SOUNDCARD          = HDA Intel PCH at 0xf0700000 irq 28
+device             = HDA Intel PCH, ALC269VC Analog (plughw:0,0)
+device number      = 0
+hostapi            = Native ALSA
+min da sample rate = 44100
+max da sample rate = 192000 
+min da bytes       = 2
+max da bytes       = 2 
+min da channels    = 2
+max da channels    = 2
+DMA rate   min=30    max=500
+
+Normal end
