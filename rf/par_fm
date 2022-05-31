@@ -1,6 +1,6 @@
 First FFT bandwidth (Hz) [10000]
 First FFT window (power of sin) [2]
-First forward FFT version [0]
+First forward FFT version [2]
 First FFT no of b threads [0]
 First FFT storage time (s) [1]
 First FFT amplitude [2000]

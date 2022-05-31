@@ -1,14 +1,14 @@
-ytop [1]
-ybottom [31]
-xleft [0]
-xright [104]
-yborder [16]
+ytop [188]
+ybottom [218]
+xleft [665]
+xright [769]
+yborder [203]
 direction [1]
 gain [0]
 gain_inc [0]
 fq inc [0.100000000000000005551115123126]
-Center freq [97.679999999999608917278237640858]
-Tune freq [995430.000000000000000000000000000000]
+Center freq [96.799999999999897681846050545573]
+Tune freq [817556.750000000000000000000000000000]
 
 Change only between brackets.
 If file has errors, Linrad will ignore file and use defaults
