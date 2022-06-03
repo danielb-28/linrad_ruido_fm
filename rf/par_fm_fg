@@ -7,8 +7,8 @@ direction [1]
 gain [0]
 gain_inc [0]
 fq inc [0.100000000000000005551115123126]
-Center freq [97.099999999999994315658113919199]
-Tune freq [330175.781250000000000000000000000000]
+Center freq [100.000000000000000000000000000000]
+Tune freq [1021289.125000000000000000000000000000]
 
 Change only between brackets.
 If file has errors, Linrad will ignore file and use defaults
